@@ -27,39 +27,7 @@
 **Tools**
 - Git  
 - VS Code
-
----
-
-## 📂 Featured Projects
-
-### 1️⃣ Project Title One
-A brief one-line description of the project purpose and what it does.
-
-🔹 Tech: React.js, Tailwind, Node, Database  
-🔹 Features:
-- Feature 1  
-- Feature 2  
-
----
-
-### 2️⃣ Project Title Two
-A brief description of your second project.
-
-🔹 Tech: React.js, Tailwind, MySQL  
-🔹 Features:
-- Feature 1  
-- Feature 2  
-
----
-
-### 3️⃣ Project Title Three
-A brief description of the third project.
-
-🔹 Tech: Java / Web / Databases (as applicable)  
-🔹 Features:
-- Feature 1  
-- Feature 2  
-
+ 
 ---
 
 ## 📊 GitHub Analytics
